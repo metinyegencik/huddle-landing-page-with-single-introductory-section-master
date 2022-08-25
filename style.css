@@ -57,6 +57,9 @@ section{
     color: hsl(257, 40%, 49%);
     border-radius: 25px;
 }
+.right-section a:hover{
+    background-color: hsl(300, 69%, 71%);
+}
 .social-icon{
     display: flex;
     gap: 10px;
